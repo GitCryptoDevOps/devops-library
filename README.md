@@ -52,7 +52,11 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 
 [Load testing with Artillery](https://github.com/actano/hackathon-load-tests)
 
-## Productivity
+## CI / CD
+
+[GitHub Actions](https://github.com/features/actions)
+
+## Dev Environment
 
 ### MacOs
 
