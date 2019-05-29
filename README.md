@@ -6,13 +6,13 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 
 ### Elasticsearch
 
-[Simple (but quick) tool for backing up Elasticsearch documents](https://github.com/whitfin/limber)
+- [Simple (but quick) tool for backing up Elasticsearch documents](https://github.com/whitfin/limber)
 
 ### Monitoring
 
-[Customized grafana docker image](https://github.com/actano/grafana)
-[The Definitive Guide To Prometheus in 2019](http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
-[high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus](https://github.com/VictoriaMetrics/VictoriaMetrics)
+- [Customized grafana docker image](https://github.com/actano/grafana)
+- [The Definitive Guide To Prometheus in 2019](http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
+- [high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
 ### Kubernetes
 
