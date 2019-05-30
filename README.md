@@ -12,3 +12,4 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 - [Craftmanship](craftmanship.md)
 - [Documentation](documentation.md)
 - [General](general.md)
+- [Laws, psychology](laws-psychology.md)
