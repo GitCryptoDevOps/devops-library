@@ -13,6 +13,7 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 - [Documentation](documentation.md)
 - [Funny](funny.md)
 - [Infrastructure](infrastructure.md)
+- [iOS](ios.md)
 - [Languages](languages.md)
 - [Laws, psychology](laws-psychology.md)
 - [Management & organization](management-organization.md)
