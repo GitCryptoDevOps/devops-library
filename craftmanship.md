@@ -8,3 +8,5 @@ Principles:
 Git:
 - [15 Git Commands You May Not Know](https://zaiste.net/15-git-commands-you-may-not-know/)
 - [How to explain git in simple](https://smusamashah.github.io/blog/2017/10/14/explain-git-in-simple-words)
+- [Guide to understand the importance of commit messages and how to write them well](https://github.com/RomuloOliveira/commit-messages-guide)
+- [Tips for a disciplined git workflow](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html)
