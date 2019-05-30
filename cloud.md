@@ -8,6 +8,8 @@
   - [70% cheaper Kubernetes cluster on AWS](https://carlosbecker.com/posts/k8s-sandbox-costs/)
   - [analyze terraform template files and return a cost estimate of running the infrastructure](https://github.com/Bjorn248/terraform_cashier)
   - [Cloud Environment Inspector](https://github.com/mlabouardy/komiser)
-
+- Analytics:
+  - [Nginx Log Analytics with AWS Athena and Cube.js](https://cube.dev/blog/nginx-analytics-with-athena-and-cubejs/?8567)
+  
 ## Terraform
 - [Terraform scripts to create an environment from scratch with a Bastion Host, Jenkins, and Spinnaker](https://github.com/kenzanlabs/spinnaker-terraform)
