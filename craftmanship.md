@@ -26,3 +26,6 @@ Refactoring:
 Patterns:
 - [An Introduction to Domain-Driven Design - DDD w/ TypeScript](https://khalilstemmler.com/articles/domain-driven-design-intro/)
 - [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
+
+DSL:
+- [A Kotlin Time DSL for Java 8 Time](https://www.jworks.io/kotlin-time-dsl-for-java-8-time/)
