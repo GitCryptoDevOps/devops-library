@@ -3,6 +3,7 @@
 This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 
 - [Infrastructure](infrastructure.md)
+- [Cloud](cloud.md)
 - [Testing](testing.md)
 - [Continuous Integration / Continuous Delivery](ci-cd.md)
 - [Dev environment](dev-env.md)
