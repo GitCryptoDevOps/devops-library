@@ -33,15 +33,3 @@ Vault:
 Cube.js:
 - [Increase the visibility of Test automation using dashboard created using Cube.js and MySql](https://medium.com/quick-code/test-automation-analytics-using-cube-js-e3ee0fa84981)
 - [Cube.js, Open Source Analytics Framework](https://github.com/statsbotco/cube.js)
-
-## Cloud
-
-AWS:
-- [Mounting Your NFS File Share on Your Client](https://docs.aws.amazon.com/storagegateway/latest/userguide/GettingStartedAccessFileShare.html)
-- [KOPS vs Amazon EKS](https://keplerworx.com/kops-vs-amazon-eks/)
-- Cost management:
-  - [70% cheaper Kubernetes cluster on AWS](https://carlosbecker.com/posts/k8s-sandbox-costs/)
-  - [analyze terraform template files and return a cost estimate of running the infrastructure](https://github.com/Bjorn248/terraform_cashier)
-
-Terraform:
-- [Terraform scripts to create an environment from scratch with a Bastion Host, Jenkins, and Spinnaker](https://github.com/kenzanlabs/spinnaker-terraform)
