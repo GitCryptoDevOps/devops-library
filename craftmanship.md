@@ -18,3 +18,6 @@ Python:
 Linux:
 - [Understanding AWS – practical guide](https://devarea.com/understanding-awk-practical-guide/)
 - [6 Tips Before You Write Your Next Bash Cronjob](https://yasoob.me/posts/6-tips-before-you-write-your-next-bash-cronjob/)
+
+Refactoring:
+- [5 Refactoring Principles by Example](https://blog.tlinkowski.pl/2019/5-refactoring-principles-by-example/)
