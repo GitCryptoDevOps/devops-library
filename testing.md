@@ -9,3 +9,6 @@ Cypress:
 
 Python:
 - [Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
+
+Mock:
+- [Quickly create mock APIs](https://mockit.netlify.com)
