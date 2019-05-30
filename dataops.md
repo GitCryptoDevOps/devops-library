@@ -1,6 +1,7 @@
 # DataOps
 
 - [Database Subsetting and Relational Data Browsing Tool](https://github.com/Wisser/Jailer)
+- [Reddit bot that generates new context-aware comments using Markov chains trained from a set of given users or subreddits comment history](https://github.com/PhantomInsights/comments-generator)
 
 JSON:
 - [Template Rules based JSON Transformer](https://github.com/amida-tech/jsonapter)
