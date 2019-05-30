@@ -24,6 +24,9 @@ Knative:
 Vault:
 - [Make Kubernetes more secure with HashiCorp Vault](https://koudingspawn.de/secure-kubernetes-with-vault/)
 
+Kustomize:
+- [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
+
 ## Docker
 - [Slimming Down Your Docker Images](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
 - [P2P-powered Docker registry (Uber)](https://github.com/uber/kraken)
