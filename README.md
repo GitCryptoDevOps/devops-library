@@ -15,4 +15,5 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 - [Laws, psychology](laws-psychology.md)
 - [Management & organization](management-organization.md)
 - [Productivity](productivity.md)
+- [Security](security.md)
 - [Testing](testing.md)
