@@ -11,3 +11,6 @@ Git:
 - [Guide to understand the importance of commit messages and how to write them well](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Tips for a disciplined git workflow](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html)
 - [Learn new skills by completing fun, realistic projects in your very own GitHub repository; get advice and helpful feedback from our friendly Learning Lab bot](https://lab.github.com)
+
+Python:
+- [Python Performance Optimization](https://stackabuse.com/python-performance-optimization/)
