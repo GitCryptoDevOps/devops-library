@@ -14,3 +14,7 @@ Git:
 
 Python:
 - [Python Performance Optimization](https://stackabuse.com/python-performance-optimization/)
+
+Linux:
+- [Understanding AWS – practical guide](https://devarea.com/understanding-awk-practical-guide/)
+- [6 Tips Before You Write Your Next Bash Cronjob](https://yasoob.me/posts/6-tips-before-you-write-your-next-bash-cronjob/)
