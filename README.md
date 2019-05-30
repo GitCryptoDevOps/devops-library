@@ -10,6 +10,7 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 - [Data Science](data-science.md)
 - [Dev environment](dev-env.md)
 - [Documentation](documentation.md)
+- [Funny](funny.md)
 - [Infrastructure](infrastructure.md)
 - [Languages](languages.md)
 - [Laws, psychology](laws-psychology.md)
