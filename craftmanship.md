@@ -22,3 +22,6 @@ Linux:
 
 Refactoring:
 - [5 Refactoring Principles by Example](https://blog.tlinkowski.pl/2019/5-refactoring-principles-by-example/)
+
+Patterns:
+- [An Introduction to Domain-Driven Design - DDD w/ TypeScript](https://khalilstemmler.com/articles/domain-driven-design-intro/)
