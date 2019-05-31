@@ -16,5 +16,11 @@ Mock:
 Unit tests:
 - [What’s a Branch and How to Make Sure It’s Covered](https://www.typemock.com/whats-a-branch-and-how-to-make-sure-its-covered/)
 
-Siege - Load testing:
+Load testing:
 - [Siege](https://github.com/JoeDog/siege)
+
+Infrastructure testing:
+- [Minimal Ruby image capable of running rspec / serverspec for the (integration) testing of Docker images](https://github.com/jadametz/docker-serverspec)
+- [Playground for serverspec-related development and demo](https://github.com/aschmidt75/serverspecplayground)
+- [Snippets to help you writing Serverspec specs](https://github.com/tomohiro/atom-serverspec-snippets)
+- [Serverspec resources for AWS](https://github.com/SaltwaterC/serverspec-aws)
