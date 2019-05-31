@@ -15,3 +15,6 @@ Mock:
 
 Unit tests:
 - [What’s a Branch and How to Make Sure It’s Covered](https://www.typemock.com/whats-a-branch-and-how-to-make-sure-its-covered/)
+
+Siege - Load testing:
+- [Siege](https://github.com/JoeDog/siege)
