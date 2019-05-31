@@ -29,3 +29,6 @@ Patterns:
 
 DSL:
 - [A Kotlin Time DSL for Java 8 Time](https://www.jworks.io/kotlin-time-dsl-for-java-8-time/)
+
+Optimisation:
+- [Common Website Optimization Techniques](https://www.technolush.com/blog/common-website-optimization-techniques)
