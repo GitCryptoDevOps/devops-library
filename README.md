@@ -19,4 +19,5 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 - [Management & organization](management-organization.md)
 - [Productivity](productivity.md)
 - [Security](security.md)
+- [SysAdmin](sysadmin.md)
 - [Testing](testing.md)
