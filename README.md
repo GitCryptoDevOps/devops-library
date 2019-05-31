@@ -4,6 +4,7 @@ This repo lists various resources (blogs, SDK, libraries, ...) about DevOps.
 
 - [General](general.md)
 - [Agile practices](agile-practices.md)
+- [ChatOps](chatops.md)
 - [Continuous Integration / Continuous Delivery](ci-cd.md)
 - [Cloud](cloud.md)
 - [Craftmanship](craftmanship.md)
