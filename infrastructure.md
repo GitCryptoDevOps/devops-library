@@ -39,3 +39,8 @@ Cube.js:
 
 ## Ops
 - [Multi-server task scheduler and runner, with a web based front-end UI](http://cronicle.net/)
+
+## Deployment infrastructure
+Ansible:
+- [Examples of Ansible playgrounds](https://github.com/ansible/ansible-examples)
+- [Ansible for DevOps](https://github.com/geerlingguy/ansible-for-devops)
